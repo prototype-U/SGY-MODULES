@@ -1,0 +1,1 @@
+cmd_../modules/../modules/drivers/char/brcm/fuse_rpc/rpc_CIB/srpc/src/built-in.o :=  /home/adminuser/sgy/arm-2009q3/bin/arm-none-eabi-ld -EL    -r -o ../modules/../modules/drivers/char/brcm/fuse_rpc/rpc_CIB/srpc/src/built-in.o ../modules/../modules/drivers/char/brcm/fuse_rpc/rpc_CIB/srpc/src/rpc_sync.o 

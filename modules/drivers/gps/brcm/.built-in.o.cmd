@@ -1,0 +1,1 @@
+cmd_../modules/../modules/drivers/gps/brcm/built-in.o :=  /home/adminuser/sgy/arm-2009q3/bin/arm-none-eabi-ld -EL    -r -o ../modules/../modules/drivers/gps/brcm/built-in.o ../modules/../modules/drivers/gps/brcm/gps_cntin_driver.o ../modules/../modules/drivers/gps/brcm/gps_driver.o 

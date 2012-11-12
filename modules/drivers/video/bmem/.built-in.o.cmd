@@ -1,0 +1,1 @@
+cmd_../modules/../modules/drivers/video/bmem/built-in.o :=  /home/adminuser/sgy/arm-2009q3/bin/arm-none-eabi-ld -EL    -r -o ../modules/../modules/drivers/video/bmem/built-in.o ../modules/../modules/drivers/video/bmem/bmem.o 

@@ -1,0 +1,1 @@
+cmd_../modules/../modules/drivers/char/brcm/fuse_sysparm/built-in.o :=  /home/adminuser/sgy/arm-2009q3/bin/arm-none-eabi-ld -EL    -r -o ../modules/../modules/drivers/char/brcm/fuse_sysparm/built-in.o ../modules/../modules/drivers/char/brcm/fuse_sysparm/bcm_fuse_sysparm.o 

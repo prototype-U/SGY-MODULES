@@ -1,0 +1,1 @@
+cmd_../modules/../modules/drivers/video/hantro/built-in.o :=  rm -f ../modules/../modules/drivers/video/hantro/built-in.o; /home/adminuser/sgy/arm-2009q3/bin/arm-none-eabi-ar rcs ../modules/../modules/drivers/video/hantro/built-in.o
